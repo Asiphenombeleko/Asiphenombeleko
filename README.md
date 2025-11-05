@@ -25,3 +25,58 @@ const asiphe = {
     funFact: "I turn coffee into code ☕️➡️💻",
     lifePhilosophy: "Code with purpose, build with passion"
 };
+🔭 Currently working on Immploy-Portal - A healthcare shift booking system
+🌱 Learning React, TypeScript, and Cloud Technologies
+👯 Open to collaborate on web development projects
+💬 Ask me about JavaScript, Node.js, Express, and Web Development
+📫 Reach me: asiphenombeleko33@gmail.com
+⚡ Fun fact: I love solving complex problems with simple solutions!
+🛠️ Tech Stack
+Frontend
+HTML5CSS3JavaScriptBootstrapTailwindCSS
+
+Backend
+NodeJSExpress.jsNPMNodemon
+
+Database
+PostgresMySQL
+
+Tools & Technologies
+GitGitHubLinuxPostmanVisual Studio Code
+
+📊 GitHub Stats
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+💼 Featured Projects
+Immploy PortalPortfolio
+
+🎯 Recent Work
+Immploy Portal - Healthcare shift management system with booking, payslips, and scheduling
+Personal Portfolio - Professional portfolio showcasing full-stack development skills
+Various Web Apps - Restaurant booking, expense trackers, and more
+📈 Contribution Graph
+
+
+Asiphe's github activity graph
+
+✍️ Random Dev Quote
+
+
+😂 Random Dev Meme
+Image
+📫 Connect With Me
+LinkedInEmailPortfolio
+
+💡 "First, solve the problem. Then, write the code." - John Johnson
+Profile Views
+
+⭐️ From Asiphenombeleko
+
+```
